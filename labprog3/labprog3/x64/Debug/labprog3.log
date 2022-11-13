@@ -1,0 +1,9 @@
+﻿  Header.cpp
+C:\Users\User\source\repos\labprog3\labprog3\Header.h(185,9): warning C4551: function call missing argument list
+  labprog3.cpp
+C:\Users\User\source\repos\labprog3\labprog3\Header.h(185,9): warning C4551: function call missing argument list
+C:\Users\User\source\repos\labprog3\labprog3\labprog3.cpp(10,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\User\source\repos\labprog3\labprog3\labprog3.cpp(23,9): warning C4101: 'id': unreferenced local variable
+C:\Users\User\source\repos\labprog3\labprog3\labprog3.cpp(20,9): warning C4101: 'i': unreferenced local variable
+  Generating Code...
+  labprog3.vcxproj -> C:\Users\User\source\repos\labprog3\x64\Debug\labprog3.exe
